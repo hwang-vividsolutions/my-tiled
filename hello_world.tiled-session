@@ -1,0 +1,23 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+    },
+    "last.exportedFilePath": "C:/Users/hwang/GitHub/my-tiled",
+    "last.imagePath": "C:/Users/hwang/Experiments/examples/public/assets/tilemaps/tiles",
+    "map.height": 10,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 10,
+    "openFiles": [
+    ],
+    "project": "hello_world.tiled-project",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true
+}
